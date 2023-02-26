@@ -9,7 +9,7 @@ def fonts():
         'Amiri' : 'Amiri-bold',
         'Anton':'fonts/Anton/Anton-Regular.ttf',
         'Lobster':'fonts/Anton/Lobster-Regular.ttf',
-        'TiltWarp':'fonts/Anton/TiltWarp-Regular-VariableFont_XROT,YROT.ttf',
+        'TiltWarp':'fonts/Anton/TiltWarp-Regular.ttf',
     }
     return font
 
