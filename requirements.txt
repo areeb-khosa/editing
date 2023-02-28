@@ -1,5 +1,5 @@
 moviepy==1.0.3
 streamlit==1.16.0
 streamlit_nested_layout==0.1.1
-imageio==2.4.1
+imageio
 imageio-ffmpeg
